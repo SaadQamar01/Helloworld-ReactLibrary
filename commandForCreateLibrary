@@ -1,0 +1,7 @@
+1- npm init --verbose (press enter, enter ,...)
+2- npm install --save-dev webpack --verbose
+3- npm install --save-dev babel-core babel-cli babel-loader
+4- npm install --save-dev babel-preset-es2015 babel-preset-react --verbose
+5- npm install --save react react-dom
+
+Video link: https://www.youtube.com/watch?v=Vmnz_rj8qxw
